@@ -9,7 +9,7 @@
 * Disponibilidade;
 * Garantia.
 
-  **Métodos:**
+**Métodos:**
 * Exibir informações;                                            
 * Alterar preço;                                         
 * Atualizar estoque.
