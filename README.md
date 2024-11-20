@@ -1,6 +1,6 @@
 ## Questão1
 
-Atributos:                                       
+**Atributos:**                                      
 * Marca;                                            
 * Potência;                                         
 * Tipo(Led, fluorescente, incandescente);           
@@ -9,7 +9,7 @@ Atributos:
 * Disponibilidade;
 * Garantia.
 
-  Métodos:
+  **Métodos:**
 * Exibir informações;                                            
 * Alterar preço;                                         
 * Atualizar estoque.
