@@ -1,10 +1,15 @@
 ## Questão1
 
-Atributos:                                        Métodos:
-* Marca;                                            * Exibir informações;
-* Potência;                                         * Alterar preço;
-* Tipo(Led, fluorescente, incandescente);           * Atualizar estoque.
+Atributos:                                       
+* Marca;                                            
+* Potência;                                         
+* Tipo(Led, fluorescente, incandescente);           
 * Voltagem;
 * Preço;
 * Disponibilidade;
 * Garantia.
+
+  Métodos:
+* Exibir informações;                                            
+* Alterar preço;                                         
+* Atualizar estoque.
