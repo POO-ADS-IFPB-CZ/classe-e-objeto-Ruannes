@@ -32,16 +32,16 @@ Não há um construtor ou métodos setter para inicializar os campos.
 
 Ele serve pra proteger os dados de uma classe, deixando a modificação ser feita só por meio de métodos específicos, como os getters e setters. Isso acontece quando declara os atributos como privados (private) e tem métodos públicos (public) pra acessar ou fazer alteração controlada.
 
-Ex sem encapsulamento:
-public class Conta {
-    public double saldo;
-    public String nome;
-}
-Conta conta = new Conta();
-conta.saldo = -1000;
-
-Desse jeito ele vai deixar valores inconsistentes como o saldo negativo.
-
+Ex sem encapsulamento:  
+public class Conta {  
+    public double saldo;  
+    public String nome;  
+}  
+Conta conta = new Conta();  
+conta.saldo = -1000;  
+  
+Desse jeito ele vai deixar valores inconsistentes como o saldo negativo.  
+  
 Ex com encapsulamento:  
 
 public class Conta {  
